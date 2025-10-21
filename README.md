@@ -29,6 +29,7 @@ Clothing-Landing-Page-FlexFit/
 ## Getting Started
 1. Clone this repository:
    ```bash
+   git clone https://github.com/faryal004/Clothing-LandingPage-FlexFit.git
    
    
 ## ScreenShots
