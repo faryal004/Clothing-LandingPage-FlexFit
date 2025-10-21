@@ -38,4 +38,5 @@ Clothing-Landing-Page-FlexFit/
 - (assets\images\HeroSection-SS.jpeg)
 - (assets\images\NewArrivals-SS.jpeg)
 - (assets\images\PromoSection-SS.jpeg)
+- https://github.com/faryal004/Clothing-LandingPage-FlexFit/blob/main/assets/images/HeroSection-SS.jpeg
 
